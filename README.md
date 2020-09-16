@@ -26,7 +26,7 @@ This web application consists of:
 
 ## Deployed Link
 
-* [See Live Site](file:///Users/LesCode/Desktop/cssbootsy/index.html)
+* [See Live Site](https://leslievill.github.io/cssbootsy/)
 
 
 ## Authors
