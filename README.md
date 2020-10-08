@@ -1,6 +1,6 @@
-# CSS & Bootstrap (or cssbootsy for short)
+# Porfolio
 
-This portfolio allows me to put the skills I have been taught to the test! Using Bootstrap's components and grid system, I am able to create a web application that can be rendered well on any device. On my 'About' link, you will find a short description about myself, on my 'Portfolio' link you'll find place holder images, and on my 'Contact' link, a short form to fill out.
+This portfolio allows me to put the skills I have been taught to the test! Using Bootstrap's components and grid system, I am able to create a web application that can be rendered well on any device. On my 'About' link, you will find a short description about myself, on my 'Portfolio' link you'll find links to projects I have worked on, and on my 'Contact' link you'll see my links to LinkedIn and GitHub.
 
 ## Feautres
 
@@ -11,7 +11,7 @@ This web application consists of:
 
  ## Web application Image
 
- ![Site image](./assets/Portfolioimage.png)
+ ![Site image](./assets/newportfolio.png)
 
  Here is the 'Home/About Me' page where you can see the feautures I previously mentioned.
 
@@ -34,7 +34,7 @@ This web application consists of:
 * **Leslie Villatoro** 
 
 - [Link to Github](https://github.com/leslievill)
-- [Link to LinkedIn](www.linkedin.com/in/leslie-villatoro-a3632a1a3)
+- [Link to LinkedIn](https://www.linkedin.com/in/leslievillatoro/)
 
 
 
