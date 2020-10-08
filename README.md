@@ -1,6 +1,6 @@
 # Porfolio
 
-This portfolio allows me to put the skills I have been taught to the test! Using Bootstrap's components and grid system, I am able to create a web application that can be rendered well on any device. On my 'About' link, you will find a short description about myself, on my 'Portfolio' link you'll find links to projects I have worked on, and on my 'Contact' link you'll see my links to LinkedIn and GitHub.
+This portfolio showcases my work so far. Using Bootstrap's components and grid system, I am able to create a web application that can be rendered well on any device. On my 'About' link, you will find a short description about myself as well as a link to my resume. On my 'Portfolio' link you'll find links to projects I have worked on, and on my 'Contact' link you'll see my links to my LinkedIn and GitHub.
 
 ## Feautres
 
@@ -11,7 +11,7 @@ This web application consists of:
 
  ## Web application Image
 
- ![Site image](./assets/newportfolio.png)
+ ![Site image](assets/lesporfolio.png)
 
  Here is the 'Home/About Me' page where you can see the feautures I previously mentioned.
 
@@ -20,8 +20,8 @@ This web application consists of:
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [Bootstrap](https://getbootstrap.com/)
-* [Git] - version control system to track changes to source code
-* [GitHub] - hosts repository that can be deployed to GitHub Pages
+* Git 
+* GitHub 
 
 
 ## Deployed Link
