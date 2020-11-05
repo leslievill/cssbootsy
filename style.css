@@ -1,0 +1,121 @@
+/* Carousel */
+
+#carouselcontainer {
+    padding-top: 50px;
+}
+
+.carousel-caption {
+    position: absolute;
+    top: 60%;
+    transform: translateY(-50%);
+}
+
+.carousel-caption h1 {
+    font-size: 500%;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 10px #000;
+}
+
+
+#button2 {
+    background-color:rgba(247, 249, 255, 0.842);
+}
+
+#button3 {
+    background-color: rrgba(247, 249, 255, 0.842);    
+}
+
+#jumbo {
+    padding-top: 20px;
+}
+
+.jumbotron {
+    padding: 2rem 2rem;
+    border-radius: 0;
+    margin-top: 60px;
+    background-color: #beb8be;
+}
+
+#About {
+    font-family: Badass Moon;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+#portfolio {
+    background-image: url(../Homework-2/Images/Code.jpg);
+    background-size: cover;
+    padding-top: 70px;
+    width: 100%;
+    height: 670px;
+    
+}
+
+#linksPortfolio {
+    padding-top: 20px;
+}
+
+.flexbox-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}
+
+.card {
+    background-color: transparent;
+}
+
+.card-title {
+    color: white;
+    text-align: center;
+    letter-spacing: 2px;    
+}
+
+#boton {
+    margin-left: 40px;
+}
+
+#dados {
+    margin-top: 50px;
+}
+
+#dados2 {
+    margin-top: 33px;
+}
+
+#dados3 {
+    margin-top: 120px;
+}
+
+#dados4 {
+    margin-top: 97px;
+}
+
+/* footer */
+footer {
+    color: white;
+}
+
+footer h5 {
+    text-align: center;
+    font-family: Badass Moon;
+    letter-spacing: 2px;
+}
+
+#CopyR {
+    font-family: Badass Moon;
+    text-align: center;
+}
+
+#MainLinks {
+    color: white;
+
+}
+
+#SitesOf {
+    color: white;
+}
+

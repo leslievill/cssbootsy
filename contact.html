@@ -8,19 +8,10 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
     <title>Portfolio</title>
 
-    <style>
-      .footer {
-        position: fixed;
-        left: 0;
-        bottom: 0;
-        width: 100%;
-        background-color:rgb(36, 28, 41);
-        color: white;
-        text-align: center;
-      }
-    </style>
+  
 
 </head>
 <body class="view" style= "background-image: url('./assets/unnamed.png');">
@@ -50,27 +41,61 @@
         </div>
       </nav>
 
-<section>
-  <div class="card bg-light mb-3" style="max-width: 70%; margin: 5%">
-      <div class="card-header" style="font-family:'Bebas Neue'; color: rgb(36, 28, 41); font-size: x-large; background-color: rgb(106, 97, 110)">
-        <h2>Contact Me</h2>
+    <!--Contact Form-->
+    <div class="container-md">
+      <div class="jumbotron" id="contact">
+          <h1 class="display-4" id="disp5">Get In Touch!</h1>
+          <hr class="light" color="white">
+          <div class="container contact-form">
+              <div class="row">
+                  <div class="col-md-6">
+                      <p><i class="fas fa-dice-d20"></i> Leslie Villatoro's Portfolio</p>
+                      <p><i class="fas fa-map-marker-alt"></i> Adress: Bay Area, California</p>
+                      <p><i class="fas fa-mobile-alt"></i> Phone: (415)794-9295</p>
+                      <p><i class="fas fa-envelope"></i> Email: levill98@gmail.com</p>
+
+                      <div class="row text-center padding" id="socialnet">
+                          <div class="col-md-3 social padding">
+                              <a href="https://github.com/leslievill" target="_blank"><i class="fab fa-github" id="facebook"></i></a>
+                          </div>
+                          <div class="col-md-3 social padding">
+                              <a href="https://www.linkedin.com/in/leslievillatoro/" target="_blank"><i class="fab fa-linkedin" id="instagram"></i></a>                            
+                          </div>    
+                      </div>    
+
+                      <div class="row text-center padding" id="socialnet">
+                          <div class="col-md-3 social padding">
+                              <a href="https://soundcloud.com/lessliez" target="_blank"><i class="fa fa-soundcloud" id="soundcloud"></i></a>
+                          </div>
+                          <div class="col-md-3 social padding">
+                              <a href="https://www.instagram.com/metelessazon" target="_blank"><i class="fa fa-instagram" id="instagram"></i></a>                            
+                          </div>    
+                      </div>    
+
+                  </div>
+                      <div class="col-md-6">
+                          <form method="POST">
+                              <div class="form-group">
+                                  <label>Name</label>
+                                  <input type="text" class="form-control">
+                              </div>
+                              <div class="form-group">
+                                  <label>Email</label>
+                                  <input type="text" class="form-control">
+                              </div>
+                              <div class="form-group">
+                                  <label>Message</label>
+                                  <textarea class="form-control" rows="5"></textarea>
+                              </div>
+                              <div class="form-group">
+                                  <button class="btn btn-outline-light btn-block btn-lg" value="Send Email" onclick="sendEmail()">Send</button>
+                              </div>
+                          </form>
+                      </div>
+              </div>
+          </div>
       </div>
-    <div class= "card-body">
-      <div>
-        <a href="https://github.com/leslievill" target="_blank">GitHub Profile </a>
-      </div>
-      <div>
-        <a href="https://www.linkedin.com/in/leslievillatoro/" target="_blank">LinkedIn Profile</a>
-      </div>
-      <li>
-        Email: levill98@gmail.com
-      </li>
-      <li>
-        Phone Number: (415)794-9295
-      </li>
-     </div>
-  </div>
-</section>
+  </div> 
       
         
             
