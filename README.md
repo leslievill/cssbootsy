@@ -11,7 +11,7 @@ This web application consists of:
 
  ## Web application Image
 
- ![Site image](assets/lesporfolio.png)
+ ![Site image](./assets/cssboot.gif)
 
  Here is the 'Home/About Me' page where you can see the feautures I previously mentioned.
 
